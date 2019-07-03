@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Data\\OdeFood.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Core\\OdeFood.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Core\\OdeFood.Core.csproj",
+        "projectName": "OdeFood.Core",
+        "projectPath": "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Core\\OdeFood.Core.csproj",
+        "packagesPath": "C:\\Users\\KG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Data\\OdeFood.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Data\\OdeFood.Data.csproj",
+        "projectName": "OdeFood.Data",
+        "projectPath": "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Data\\OdeFood.Data.csproj",
+        "packagesPath": "C:\\Users\\KG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\KG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Core\\OdeFood.Core.csproj": {
+                "projectPath": "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Core\\OdeFood.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
