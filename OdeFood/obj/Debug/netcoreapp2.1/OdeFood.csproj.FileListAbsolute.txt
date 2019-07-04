@@ -31,3 +31,11 @@ C:\Users\KG\source\repos\OdeFood\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.dll
 C:\Users\KG\source\repos\OdeFood\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.pdb
 C:\Users\KG\source\repos\OdeFood\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.csproj.CopyComplete
 C:\Users\KG\source\repos\OdeFood\OdeFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\List.g.cshtml.cs
+D:\Practice\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.csprojAssemblyReference.cache
+D:\Practice\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.csproj.CoreCompileInputs.cache
+D:\Practice\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.RazorAssemblyInfo.cache
+D:\Practice\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.RazorAssemblyInfo.cs
+D:\Practice\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.AssemblyInfoInputs.cache
+D:\Practice\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.AssemblyInfo.cs
+D:\Practice\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.dll
+D:\Practice\OdeFood\obj\Debug\netcoreapp2.1\OdeFood.pdb

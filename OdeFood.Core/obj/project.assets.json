@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\KG\\.nuget\\packages\\": {},
+    "C:\\Users\\gosodo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Core\\OdeFood.Core.csproj",
+      "projectUniqueName": "D:\\Practice\\OdeFood.Core\\OdeFood.Core.csproj",
       "projectName": "OdeFood.Core",
-      "projectPath": "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Core\\OdeFood.Core.csproj",
-      "packagesPath": "C:\\Users\\KG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KG\\source\\repos\\OdeFood\\OdeFood.Core\\obj\\",
+      "projectPath": "D:\\Practice\\OdeFood.Core\\OdeFood.Core.csproj",
+      "packagesPath": "C:\\Users\\gosodo\\.nuget\\packages\\",
+      "outputPath": "D:\\Practice\\OdeFood.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\KG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gosodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -710,7 +710,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {

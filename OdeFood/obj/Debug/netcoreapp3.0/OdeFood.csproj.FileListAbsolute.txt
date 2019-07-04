@@ -1,0 +1,8 @@
+D:\Practice\OdeFood\obj\Debug\netcoreapp3.0\OdeFood.csprojAssemblyReference.cache
+D:\Practice\OdeFood\obj\Debug\netcoreapp3.0\OdeFood.csproj.CoreCompileInputs.cache
+D:\Practice\OdeFood\obj\Debug\netcoreapp3.0\OdeFood.AssemblyInfoInputs.cache
+D:\Practice\OdeFood\obj\Debug\netcoreapp3.0\OdeFood.AssemblyInfo.cs
+D:\Practice\OdeFood\obj\Debug\netcoreapp3.0\OdeFood.TagHelpers.input.cache
+D:\Practice\OdeFood\obj\Debug\netcoreapp3.0\OdeFood.TagHelpers.output.cache
+D:\Practice\OdeFood\obj\Debug\netcoreapp3.0\OdeFood.dll
+D:\Practice\OdeFood\obj\Debug\netcoreapp3.0\OdeFood.pdb

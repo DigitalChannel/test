@@ -1,0 +1,9 @@
+D:\Practice\OdeFood.Core\bin\Debug\netcoreapp2.2\OdeFood.Core.deps.json
+D:\Practice\OdeFood.Core\bin\Debug\netcoreapp2.2\OdeFood.Core.dll
+D:\Practice\OdeFood.Core\bin\Debug\netcoreapp2.2\OdeFood.Core.pdb
+D:\Practice\OdeFood.Core\obj\Debug\netcoreapp2.2\OdeFood.Core.csprojAssemblyReference.cache
+D:\Practice\OdeFood.Core\obj\Debug\netcoreapp2.2\OdeFood.Core.csproj.CoreCompileInputs.cache
+D:\Practice\OdeFood.Core\obj\Debug\netcoreapp2.2\OdeFood.Core.AssemblyInfoInputs.cache
+D:\Practice\OdeFood.Core\obj\Debug\netcoreapp2.2\OdeFood.Core.AssemblyInfo.cs
+D:\Practice\OdeFood.Core\obj\Debug\netcoreapp2.2\OdeFood.Core.dll
+D:\Practice\OdeFood.Core\obj\Debug\netcoreapp2.2\OdeFood.Core.pdb
